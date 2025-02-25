@@ -28,5 +28,5 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/girish-vadlamudi-79758b110/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](giri.vadlamudi@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:giri.vadlamudi@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/realgirishvadlamudi?igsh=MWM3bjg2cWh1cXdwMg%3D%3D&utm_source=qr)
