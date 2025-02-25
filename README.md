@@ -4,11 +4,11 @@
 
 ## :book: About Me
 - 🖥 Software engineer with alot of curiosity
+- 💬 Ask me about **Elixir and Phoenix**
+- 🌐 You can access my open-source project on [Github](https://github.com/VRagments/fader360-backend)
 - 🎓 Bachelor's in Electronics and communication from Jawaharlal Nehru Technological University, class of 2018
 - 🎓 Masters's in Information Technology from SRH University Heidelberg, class of 2021
-- 🌐 You can access my open-source project on [Github](https://github.com/VRagments/fader360-backend)
 - 🌱 I’m currently learning Web-develoment using Javascript
-- 💬 Ask me about **Elixir and Phoenix**
 - 😄 Pronouns: *he/him*
 - ⚡ Fun fact about **Potsdam**(where I currently live):
     > It has the world’s oldest large-scale movie studio! 🏰🎥 (**Babelsberg Film Studio**) Founded in **1912**.
