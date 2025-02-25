@@ -6,7 +6,7 @@
 - 🖥 Software engineer with alot of curiosity
 - 🎓 Bachelor's in Electronics and communication from Jawaharlal Nehru Technological University, class of 2018
 - 🎓 Masters's in Information Technology from SRH University Heidelberg, class of 2021
-- 🌐 You can access my open-source project on the [Github](https://github.com/VRagments/fader360-backend)
+- 🌐 You can access my open-source project on [Github](https://github.com/VRagments/fader360-backend)
 - 🌱 I’m currently learning Web-develoment using Javascript
 - 💬 Ask me about **Elixir and Phoenix**
 - 😄 Pronouns: *he/him*
