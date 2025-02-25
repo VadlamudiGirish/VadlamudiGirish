@@ -1,4 +1,4 @@
-## Hi there 👋 this is **Girish Vadlamudi**
+# Hi there 👋 this is **Girish Vadlamudi**
 
 - 🔭 I’m currently upscaling my skills.
 - 🌱 I’m currently learning Web-develoment using Javascript.
