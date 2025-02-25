@@ -2,7 +2,7 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=VadlamudiGirish.VadlamudiGirish&color=00cf00)
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About Me
 - 🖥 Software engineer with alot of curiosity
 - 🎓 Bachelor's in Electronics and communication from Jawaharlal Nehru Technological University, class of 2018
 - 🎓 Masters's in Information Technology from SRH University Heidelberg, class of 2021
@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,elixir,graphql,docker,postgres,py,vscode)](https://skillicons.dev)
 
-## 📫 Reach me at:
+## 📫 Reach me at
 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/girish-vadlamudi-79758b110/)
