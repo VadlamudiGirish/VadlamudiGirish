@@ -20,6 +20,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,elixir,graphql,docker,postgres,py,vscode)](https://skillicons.dev)
 
+## 📈 GitHub Stats
+
+![Girish's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadlamudiGirish&show_icons=true&theme=radical)
+
 ## 📫 Reach me at
 
 
