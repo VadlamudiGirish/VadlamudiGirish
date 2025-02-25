@@ -1,4 +1,4 @@
-# Hi there 👋 this is **Girish Vadlamudi**
+# Hi there 👋 this is **`Girish Vadlamudi`**
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=VadlamudiGirish.VadlamudiGirish&color=00cf00)
 
