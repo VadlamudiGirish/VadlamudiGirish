@@ -18,7 +18,7 @@
 ## :dart: My Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,elixir,graphql,docker,postgres,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,javascript,react,nextjs,graphql,docker,postgres,py,vscode)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
