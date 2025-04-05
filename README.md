@@ -8,7 +8,7 @@
 - 🌐 You can access my open-source project on [Github](https://github.com/VRagments/fader360-backend)
 - 🎓 Bachelor's in Electronics and communication from Jawaharlal Nehru Technological University, class of 2018
 - 🎓 Masters's in Information Technology from SRH University Heidelberg, class of 2021
-- 🌱 I’m currently learning Web-develoment using Javascript
+- 🌱 I’m currently learning Web-develoment using Typescript, Reaxct, Next.js, MongoDB.
 - 😄 Pronouns: *he/him*
 - ⚡ Fun fact about **Potsdam**(where I currently live):
     > It has the world’s oldest large-scale movie studio! 🏰🎥 (**Babelsberg Film Studio**) Founded in **1912**.
